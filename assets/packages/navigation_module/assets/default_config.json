@@ -1,0 +1,21 @@
+{
+  "backgrounds": {},
+  "modified": "March, 25 2019",
+  "colors": {},
+  "dimens": {},
+  "fonts": {},
+  "themes": {},
+  "elements": {
+    "appBarBackground": "$primary",
+    "expandingRouteOptionIconTheme": "defaultHeaderIcon",
+    "expandingRouteOptionBadgeIndicatorBg": "$defaultRedBg",
+    "expandingRouteOptionBadgeIndicatorFont": "defaultLightText|{'size':9}"
+  },
+  "flags": {
+    "showProfileImage": true
+  },
+  "images": {
+  },
+  "strings": {
+  }
+}

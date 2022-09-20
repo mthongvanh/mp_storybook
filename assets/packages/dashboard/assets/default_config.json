@@ -1,0 +1,28 @@
+{
+  "backgrounds": {},
+  "modified": "March, 25 2019",
+  "colors": {},
+  "dimens": {
+    "featuredImageMaxHeightDivisor": 1
+  },
+  "fonts": {},
+  "themes": {},
+  "elements": {
+    "featuredImageMaxHeightDivisorDimen": "&featuredImageMaxHeightDivisor",
+    "homeBg": "$defaultPageBg"
+  },
+  "flags": {
+    "loginRegistrationEnabled": true,
+    "loginAssistanceEnabled": true,
+    "ssoType":  0,
+    "loginCustomConsentEnabled": false,
+    "loginPasswordObscureText": true
+  },
+  "images": {
+    "loginHeader": "",
+    "loginPasswordSuffixIcon": "fa-eye|fa-eye-slash"
+  },
+  "strings": {
+    "featuredImage": "https://nylpm22-dev.mpeventapps.com/includes/images/default/mpav_fi2.png"
+  }
+}

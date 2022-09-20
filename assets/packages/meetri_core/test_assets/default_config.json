@@ -1,0 +1,61 @@
+{
+  "backgrounds": {},
+  "modified": "March, 25 2019",
+  "colors": {},
+  "dimens": {},
+  "fonts": {},
+  "themes": {},
+  "elements": {
+    "userFilterApplyBtn": "defaultBtn",
+    "userFilterApplyBtnBg": "$defaultBtnBg",
+    "userFilterBg": "$defaultPageBg",
+    "userFilterClearBtn": "defaultBtn",
+    "userFilterClearBtnBg": "$defaultTransparentBg",
+    "userFilterFieldText": "defaultDarkText|{'font':'$bold'}",
+    "userFilterHeaderText": "defaultDarkText|{'size':20,'font':'$bold'}",
+    "userFilterLabelText": "defaultDarkText|{'font':'$bold'}",
+    "userListBg": "$defaultPageBg",
+    "userListCharFilterBarBg": "$defaultWhiteBg",
+    "userListCharFilterFill": "defaultCharFilterFill",
+    "userListCharFilterText": "defaultCharFilterText",
+    "userListCompanyText": "defaultDarkText|{'size':13}",
+    "userListDropdownBg": "$defaultGreyBg",
+    "userListDropdownIcon": "defaultDarkText|{'size':20,'colorAlt':'red'}",
+    "userListDropdownText": "defaultDarkText|{'size':8}",
+    "userListEllipsisBorder": "$defaultWhiteBg",
+    "userListEllipsisBorderWidthDimen": "&defaultEllipsisBorderWidth",
+    "userListEllipsisFill": "$secondary",
+    "userListEllipsisSizeDimen": "&defaultEllipsisSize",
+    "userListEllipsisText": "defaultLightText|{'size':16}",
+    "userListFilterBtn": "defaultBtn",
+    "userListHeader": "defaultPageHeader",
+    "userListHeaderBg": "$defaultPageHeaderBg",
+    "userListHeaderIcon": "defaultPageHeader",
+    "userListItemBg": "$defaultWhiteBg",
+    "userListNameText": "defaultDarkText|{'size':16,'font':'$bold'}",
+    "userListTitleText": "defaultDarkText|{'size':13}"
+  },
+  "flags": {
+    "userListDirectMessageEnabled": true,
+    "userListDirectMessageNative": true,
+    "userListDropDownEnabled": true,
+    "userListFavoriteEnabled": true,
+    "userListGroupMessageEnabled": true,
+    "userListGroupMessageNative": true,
+    "userListHideCompany": false,
+    "userListHideFirstName": false,
+    "userListHideJobTitle": false,
+    "userListHideLastName": false,
+    "userListShowAlphaFilter": true
+  },
+  "images": {
+    "userListDirectMessageIcon": "fa-envelope",
+    "userListFavoriteIcon": "fa-heart",
+    "userListGroupMessageIcon": "fa-comments",
+    "userListSearchIcon": "fa-search"
+  },
+  "strings": {
+    "userFilterHeaderText": "Search Attendees",
+    "userListFilterApplyBtnText": "Filter Attendee List"
+  }
+}

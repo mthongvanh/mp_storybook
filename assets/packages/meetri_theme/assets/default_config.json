@@ -1,0 +1,161 @@
+{
+  "backgrounds": {},
+  "modified": "",
+  "strings": {},
+  "colors": {
+    "primary": "rgba(15,12,52,1.0)",
+    "secondary": "rgba(115,72,216,1.0)",
+    "accent": "yellow",
+    "defaultBlackBg": "11243E",
+    "defaultBlackTransparentBg": "rgba(0,0,0,0.6)",
+    "defaultBtnBg": "DA11AE",
+    "defaultLeftNavBg": "d1d1d1",
+    "defaultListHighlight": "rgba(44,70,175,0.5)",
+    "defaultLoginBg": "white",
+    "defaultPageBg": "F7F9FC",
+    "darkGray": "c0c1c2",
+    "defaultPageHeaderBg": "7C3DE0",
+    "defaultRedBg": "ff001d",
+    "defaultGreyBg": "C5CCD8",
+    "defaultGreenBg": "00cc00",
+    "defaultTransparentBg": "rgba(0,0,0,0.0)",
+    "defaultWhiteBg": "F7F9FC",
+    "defaultWhiteTransparentBg": "rgba(255,255,255,0.95)",
+    "meetingPlayPink": "rgba(200,53,169,1.0)",
+    "meetingPlayBlue": "#2E83BC",
+    "clear": "clear"
+  },
+  "dimens": {
+    "defaultChipCornerRadius": 20,
+    "defaultEllipsisBorderWidth": 0,
+    "defaultEllipsisSize": 35
+  },
+  "elements": {},
+  "flags": {},
+  "fonts": {
+    "bold": "Bai Jamjuree|700",
+    "bolditalic": "Bai Jamjuree-Italic|700",
+    "italic": "Bai Jamjuree-Italic|400",
+    "light": "Bai Jamjuree|300",
+    "lightitalic": "Bai Jamjuree-Italic|200",
+    "regular": "Bai Jamjuree|400"
+  },
+  "images": {
+    "appBg": "clear"
+  },
+  "themes": {
+    "defaultBtn": {
+      "color": "white",
+      "font": "$regular",
+      "size": 15
+    },
+    "defaultCharFilterFill": {
+      "color": "$meetingPlayPink",
+      "colorAlt": "$defaultWhiteBg"
+    },
+    "defaultCharFilterText": {
+      "color": "$defaultWhiteBg",
+      "colorAlt": "black",
+      "font": "$light",
+      "size": 18
+    },
+    "defaultChipMenuFill": {
+      "color": "$defaultWhiteBg",
+      "colorAlt": "$meetingPlayPink"
+    },
+    "defaultChipMenuText": {
+      "color": "black",
+      "colorAlt": "$defaultWhiteBg",
+      "font": "$light",
+      "size": 10
+    },
+    "defaultDarkText": {
+      "color": "black",
+      "colorAlt": "black",
+      "font": "$regular",
+      "size": 13
+    },
+    "defaultGreyText": {
+      "color": "grey",
+      "font": "$regular",
+      "size": 16
+    },
+    "defaultHeaderIcon": {
+      "color": "$defaultWhiteBg",
+      "size": 20
+    },
+    "defaultLargeIcon": {
+      "color": "black",
+      "colorAlt": "d65f59",
+      "size": 55
+    },
+    "defaultLeftAccs": {
+      "color": "eeeeee",
+      "colorAlt": "d65f59",
+      "size": 35
+    },
+    "defaultLightText": {
+      "color": "$defaultWhiteBg",
+      "colorAlt": "$defaultGreyBg",
+      "font": "$regular",
+      "size": 16
+    },
+    "defaultListBg": {
+      "color": "$defaultWhiteBg",
+      "colorAlt": "$defaultListHighlight",
+      "font": "$regular",
+      "size": 16
+    },
+    "defaultListSectionHeader": {
+      "color": "black",
+      "font": "$light",
+      "size": 13
+    },
+    "defaultListText": {
+      "color": "black",
+      "colorAlt": "$defaultWhiteBg",
+      "font": "$regular",
+      "size": 16
+    },
+    "defaultMapPin": {
+      "color": "black",
+      "font": "$light",
+      "size": 30
+    },
+    "defaultMediumIcon": {
+      "color": "black",
+      "colorAlt": "F22248",
+      "size": 30
+    },
+    "defaultPageHeader": {
+      "color": "$defaultWhiteBg",
+      "font": "$regular",
+      "size": 20
+    },
+    "defaultRightAccs": {
+      "color": "eeeeee",
+      "colorAlt": "F22248",
+      "size": 35
+    },
+    "defaultSmallIcon": {
+      "color": "black",
+      "colorAlt": "F22248",
+      "size": 18
+    },
+    "defaultSmallIconGreyBlack": {
+      "color": "grey",
+      "colorAlt": "black",
+      "size": 17
+    },
+    "defaultTagChipFill": {
+      "color": "black",
+      "colorAlt": "white"
+    },
+    "defaultTagChipText": {
+      "color": "white",
+      "colorAlt": "black",
+      "font": "$light",
+      "size": 10
+    }
+  }
+}
