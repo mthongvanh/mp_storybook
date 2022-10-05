@@ -6,9 +6,10 @@
   "fonts": {},
   "themes": {},
   "elements": {
-    "appBarBackground": "$primary",
+    "appBarBackground": "$defaultHeaderBg",
+    "searchBoxBgColor": "$searchBoxBg",
     "expandingRouteOptionIconTheme": "defaultHeaderIcon",
-    "expandingRouteOptionBadgeIndicatorBg": "$defaultRedBg",
+    "expandingRouteOptionBadgeIndicatorBg": "$defaultHeaderBg",
     "expandingRouteOptionBadgeIndicatorFont": "defaultLightText|{'size':9}"
   },
   "flags": {
@@ -17,5 +18,6 @@
   "images": {
   },
   "strings": {
+    "searchText": "Search"
   }
 }

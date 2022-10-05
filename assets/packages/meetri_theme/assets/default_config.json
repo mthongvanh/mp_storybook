@@ -11,8 +11,10 @@
     "defaultBtnBg": "DA11AE",
     "defaultLeftNavBg": "d1d1d1",
     "defaultListHighlight": "rgba(44,70,175,0.5)",
+    "defaultHeaderBg": "white",
     "defaultLoginBg": "white",
     "defaultPageBg": "F7F9FC",
+    "searchBoxBg": "rgba(242,242,242,1)",
     "darkGray": "c0c1c2",
     "defaultPageHeaderBg": "7C3DE0",
     "defaultRedBg": "ff001d",
@@ -81,7 +83,7 @@
       "size": 16
     },
     "defaultHeaderIcon": {
-      "color": "$defaultWhiteBg",
+      "color": "$defaultBlackTransparentBg",
       "size": 20
     },
     "defaultLargeIcon": {

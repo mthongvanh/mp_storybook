@@ -14,7 +14,7 @@
   "flags": {
     "loginRegistrationEnabled": true,
     "loginAssistanceEnabled": true,
-    "ssoType":  0,
+    "ssoType": 0,
     "loginCustomConsentEnabled": false,
     "loginPasswordObscureText": true
   },
